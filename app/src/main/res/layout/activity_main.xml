@@ -24,7 +24,8 @@
         android:layout_centerHorizontal="true"
         android:layout_margin="20dp"
         android:text="Scan something..."
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:textIsSelectable="true"/>
 
 
 </RelativeLayout>
